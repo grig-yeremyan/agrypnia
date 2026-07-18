@@ -8,7 +8,7 @@ The project will help organizations discover their internet-facing assets, monit
 
 ## Goals
 
-Agrypnia aims to automate OSINT data collection and provide continuous visibility into an organization's public digital footprint.
+Agrypnia aims to automate OSINT data collection, help security teams discover exposed infrastructure, monitor changes across public sources, provide continuous visibility into an organization's digital footprint, and identify cyber risks before they become incidents.
 
 ## Planned Capabilities
 
