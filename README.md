@@ -6,6 +6,10 @@ Agrypnia is an automated Open Source Intelligence platform designed to collect, 
 
 The project will help organizations discover their internet-facing assets, monitor infrastructure changes, identify potential security risks, and receive actionable intelligence.
 
+## Goals
+
+Agrypnia aims to automate OSINT data collection and provide continuous visibility into an organization's public digital footprint.
+
 ## Planned Capabilities
 
 - Domain and DNS intelligence
